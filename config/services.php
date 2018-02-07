@@ -15,8 +15,8 @@ return [
     */
 
     'mailgun' => [
-        'domain' => env('MAILGUN_DOMAIN'),
-        'secret' => env('MAILGUN_SECRET'),
+        'domain' => env('cartoriomartins.com.br'),
+        'secret' => env('key-cc0d473a0627522dbd31277d70d07226'),
     ],
 
     'ses' => [
